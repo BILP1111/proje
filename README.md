@@ -1,1 +1,11 @@
-# BILP1111 50 Tane C Sorusu Proje Ödevi
+<div align="center">
+<h1>
+  C PROJE
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30px"/>
+</h1>
+
+[Barış Taner 22BILP0091](https://github.com/BILP1111/proje/tree/main/22BILP0091%20BARIS%20TANER)
+
+
+
+</div>
