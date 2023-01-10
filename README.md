@@ -7,6 +7,6 @@
 [Barış Taner 22BILP0091](https://github.com/BILP1111/proje/tree/main/22BILP0091%20BARIS%20TANER)<br>
 [Piyar Emen 22BILP0073](https://github.com/BILP1111/proje/tree/main/PİYAR%20EMEN%2022BİLP0073)<br>
 [Nevzat Erkan Eryürek 22BILP0036](https://github.com/BILP1111/proje/tree/main/22B%C4%B0LP0036%20NEVZAT%20ERKAN%20ERY%C3%9CREK)<br>
-[Beha Ulaş Karakişi](https://github.com/BILP1111/proje/tree/main/22BILP0062%20BEHA%20ULAS%CC%A7%20KARAKI%CC%87S%CC%A7I%CC%87)
+[Beha Ulaş Karakişi 22BILP0062](https://github.com/BILP1111/proje/tree/main/22BILP0062%20BEHA%20ULAS%CC%A7%20KARAKI%CC%87S%CC%A7I%CC%87)
 
 </div>
