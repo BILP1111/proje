@@ -9,6 +9,6 @@
 [Nevzat Erkan Eryürek 22BILP0036](https://github.com/BILP1111/proje/tree/main/22B%C4%B0LP0036%20NEVZAT%20ERKAN%20ERY%C3%9CREK)<br>
 [Beha Ulaş Karakişi 22BILP0062](https://github.com/BILP1111/proje/tree/main/22BILP0062%20BEHA%20ULAS%CC%A7%20KARAKI%CC%87S%CC%A7I%CC%87)<br>
 [Samet Kubat 22BİLP0131](https://github.com/BILP1111/proje/tree/main/22B%C4%B0LP0131%20SAMET%20KUBAT)<br>
-[Muhammet Nakış 22BILP0038](https://github.com/BILP1111/proje/tree/main/22BILP0038%20MUHAMMET%20NAKIS%CC%A7)
-
+[Muhammet Nakış 22BILP0038](https://github.com/BILP1111/proje/tree/main/22BILP0038%20MUHAMMET%20NAKIS%CC%A7)<br>
+[Rıza Asil Genç 22BİLP0115](https://github.com/BILP1111/proje/tree/main/22B%C4%B0LP0115%20RIZA%20AS%C4%B0L%20GEN%C3%87)
 </div>
