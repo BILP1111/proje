@@ -1,0 +1,4 @@
+adı : abdullah 
+soyadı : güzel
+ders numarası : bilp1111
+öğrenci numarası: 22bilp0081
